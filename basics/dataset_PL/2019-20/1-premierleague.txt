@@ -1,0 +1,597 @@
+= English Premier League 2019/20
+
+
+Matchday 1
+[Fri Aug/9]
+  FC Liverpool            4-1 Norwich City
+[Sat Aug/10]
+  West Ham United         0-5 Manchester City
+  Crystal Palace          0-0 FC Everton
+  FC Watford              0-3 Brighton & Hove Albion
+  FC Burnley              3-0 FC Southampton
+  AFC Bournemouth         1-1 Sheffield United
+  Tottenham Hotspur       3-1 Aston Villa
+[Sun Aug/11]
+  Newcastle United        0-1 FC Arsenal
+  Manchester United       4-0 FC Chelsea
+  Leicester City          0-0 Wolverhampton Wanderers
+
+
+Matchday 2
+[Sat Aug/17]
+  FC Arsenal              2-1 FC Burnley
+  Aston Villa             1-2 AFC Bournemouth
+  FC Everton              1-0 FC Watford
+  FC Southampton          1-2 FC Liverpool
+  Manchester City         2-2 Tottenham Hotspur
+  Norwich City            3-1 Newcastle United
+  Brighton & Hove Albion  1-1 West Ham United
+[Sun Aug/18]
+  FC Chelsea              1-1 Leicester City
+  Sheffield United        1-0 Crystal Palace
+[Mon Aug/19]
+  Wolverhampton Wanderers 1-1 Manchester United
+
+
+Matchday 3
+[Fri Aug/23]
+  Aston Villa             2-0 FC Everton
+[Sat Aug/24]
+  FC Liverpool            3-1 FC Arsenal
+  Manchester United       1-2 Crystal Palace
+  FC Watford              1-3 West Ham United
+  Sheffield United        1-2 Leicester City
+  Norwich City            2-3 FC Chelsea
+  Brighton & Hove Albion  0-2 FC Southampton
+[Sun Aug/25]
+  AFC Bournemouth         1-3 Manchester City
+  Tottenham Hotspur       0-1 Newcastle United
+  Wolverhampton Wanderers 1-1 FC Burnley
+
+
+Matchday 4
+[Sat Aug/31]
+  FC Chelsea              2-2 Sheffield United
+  Crystal Palace          1-0 Aston Villa
+  Leicester City          3-1 AFC Bournemouth
+  Newcastle United        1-1 FC Watford
+  FC Southampton          1-1 Manchester United
+  West Ham United         2-0 Norwich City
+  Manchester City         4-0 Brighton & Hove Albion
+  FC Burnley              0-3 FC Liverpool
+[Sun Sep/1]
+  FC Arsenal              2-2 Tottenham Hotspur
+  FC Everton              3-2 Wolverhampton Wanderers
+
+
+Matchday 5
+[Sat Sep/14]
+  FC Liverpool            3-1 Newcastle United
+  Manchester United       1-0 Leicester City
+  Tottenham Hotspur       4-0 Crystal Palace
+  Wolverhampton Wanderers 2-5 FC Chelsea
+  Sheffield United        0-1 FC Southampton
+  Norwich City            3-2 Manchester City
+  Brighton & Hove Albion  1-1 FC Burnley
+[Sun Sep/15]
+  AFC Bournemouth         3-1 FC Everton
+  FC Watford              2-2 FC Arsenal
+[Mon Sep/16]
+  Aston Villa             0-0 West Ham United
+
+
+Matchday 6
+[Fri Sep/20]
+  FC Southampton          1-3 AFC Bournemouth
+[Sat Sep/21]
+  FC Everton              0-2 Sheffield United
+  Leicester City          2-1 Tottenham Hotspur
+  Newcastle United        0-0 Brighton & Hove Albion
+  Manchester City         8-0 FC Watford
+  FC Burnley              2-0 Norwich City
+[Sun Sep/22]
+  Crystal Palace          1-1 Wolverhampton Wanderers
+  FC Arsenal              3-2 Aston Villa
+  FC Chelsea              1-2 FC Liverpool
+  West Ham United         2-0 Manchester United
+
+
+Matchday 7
+[Sat Sep/28]
+  Aston Villa             2-2 FC Burnley
+  FC Chelsea              2-0 Brighton & Hove Albion
+  Crystal Palace          2-0 Norwich City
+  FC Everton              1-3 Manchester City
+  Tottenham Hotspur       2-1 FC Southampton
+  Wolverhampton Wanderers 2-0 FC Watford
+  Sheffield United        0-1 FC Liverpool
+  AFC Bournemouth         2-2 West Ham United
+[Sun Sep/29]
+  Leicester City          5-0 Newcastle United
+[Mon Sep/30]
+  Manchester United       1-1 FC Arsenal
+
+
+Matchday 8
+[Sat Oct/5]
+  FC Liverpool            2-1 Leicester City
+  West Ham United         1-2 Crystal Palace
+  FC Watford              0-0 Sheffield United
+  Norwich City            1-5 Aston Villa
+  FC Burnley              1-0 FC Everton
+  Brighton & Hove Albion  3-0 Tottenham Hotspur
+[Sun Oct/6]
+  Newcastle United        1-0 Manchester United
+  FC Southampton          1-4 FC Chelsea
+  FC Arsenal              1-0 AFC Bournemouth
+  Manchester City         0-2 Wolverhampton Wanderers
+
+
+Matchday 9
+[Sat Oct/19]
+  Aston Villa             1-0 Brighton & Hove Albion
+  FC Chelsea              1-0 Newcastle United
+  FC Everton              2-0 West Ham United
+  Leicester City          2-1 FC Burnley
+  Tottenham Hotspur       1-1 FC Watford
+  Wolverhampton Wanderers 1-1 FC Southampton
+  AFC Bournemouth         0-0 Norwich City
+  Crystal Palace          0-2 Manchester City
+[Sun Oct/20]
+  Manchester United       1-1 FC Liverpool
+[Mon Oct/21]
+  Sheffield United        1-0 FC Arsenal
+
+
+Matchday 10
+[Fri Oct/25]
+  FC Southampton          0-9 Leicester City
+[Sat Oct/26]
+  West Ham United         1-1 Sheffield United
+  Manchester City         3-0 Aston Villa
+  FC Watford              0-0 AFC Bournemouth
+  FC Burnley              2-4 FC Chelsea
+  Brighton & Hove Albion  3-2 FC Everton
+[Sun Oct/27]
+  FC Arsenal              2-2 Crystal Palace
+  FC Liverpool            2-1 Tottenham Hotspur
+  Newcastle United        1-1 Wolverhampton Wanderers
+  Norwich City            1-3 Manchester United
+
+
+Matchday 11
+[Sat Nov/2]
+  FC Arsenal              1-1 Wolverhampton Wanderers
+  Aston Villa             1-2 FC Liverpool
+  West Ham United         2-3 Newcastle United
+  Manchester City         2-1 FC Southampton
+  FC Watford              1-2 FC Chelsea
+  Sheffield United        3-0 FC Burnley
+  AFC Bournemouth         1-0 Manchester United
+  Brighton & Hove Albion  2-0 Norwich City
+[Sun Nov/3]
+  Crystal Palace          0-2 Leicester City
+  FC Everton              1-1 Tottenham Hotspur
+  
+
+Matchday 12
+[Fri Nov/8]
+  Norwich City            0-2 FC Watford
+[Sat Nov/9]
+  FC Chelsea              2-0 Crystal Palace
+  Leicester City          2-0 FC Arsenal
+  FC Burnley              3-0 West Ham United
+  Newcastle United        2-1 AFC Bournemouth
+  FC Southampton          1-2 FC Everton
+  Tottenham Hotspur       1-1 Sheffield United
+ [Sun Nov/10]
+  FC Liverpool            3-1 Manchester City
+  Manchester United       3-1 Brighton & Hove Albion
+  Wolverhampton Wanderers 2-1 Aston Villa
+  
+  
+Matchday 13
+[Sat Nov/23]
+  FC Arsenal              2-2 FC Southampton
+  Crystal Palace          1-2 FC Liverpool
+  FC Everton              0-2 Norwich City
+  West Ham United         2-3 Tottenham Hotspur
+  Manchester City         2-1 FC Chelsea
+  FC Watford              0-3 FC Burnley
+  AFC Bournemouth         1-2 Wolverhampton Wanderers
+  Brighton & Hove Albion  0-2 Leicester City
+[Sun Nov/24]
+  Sheffield United        3-3 Manchester United
+[Mon Nov/25]
+  Aston Villa             2-0 Newcastle United
+  
+  
+Matchday 14
+[Sat Nov/30]
+  FC Chelsea              0-1 West Ham United
+  FC Burnley              0-2 Crystal Palace
+  FC Liverpool            2-1 Brighton & Hove Albion
+  Newcastle United        2-2 Manchester City
+  FC Southampton          2-1 FC Watford
+  Tottenham Hotspur       3-2 AFC Bournemouth
+[Sun Dec/1]
+  Wolverhampton Wanderers 1-1 Sheffield United
+  Norwich City            2-2 FC Arsenal
+  Leicester City          2-1 FC Everton
+  Manchester United       2-2 Aston Villa
+  
+  
+Matchday 15
+[Tue Dec/3]
+  Crystal Palace          1-0 AFC Bournemouth
+  FC Burnley              1-4 Manchester City
+[Wed Dec/4]
+  FC Chelsea              2-1 Aston Villa
+  Leicester City          2-0 FC Watford
+  Manchester United       2-1 Tottenham Hotspur
+  Wolverhampton Wanderers 2-0 West Ham United
+  FC Liverpool            5-2 FC Everton
+  FC Southampton          2-1 Norwich City
+[Thu Dec/5]
+  FC Arsenal              1-2 Brighton & Hove Albion
+  Sheffield United        0-2 Newcastle United
+ 
+ 
+Matchday 16
+[Sat Dec/7]
+  FC Everton              3-1 FC Chelsea
+  Tottenham Hotspur       5-0 FC Burnley
+  AFC Bournemouth         0-3 FC Liverpool
+  Manchester City         1-2 Manchester United
+  FC Watford              0-0 Crystal Palace
+[Sun Dec/8]
+  Norwich City            1-2 Sheffield United
+  Aston Villa             1-4 Leicester City
+  Brighton & Hove Albion  2-2 Wolverhampton Wanderers
+  Newcastle United        2-1 FC Southampton
+[Mon Dec/9]
+  West Ham United         1-3 FC Arsenal
+
+
+Matchday 17
+[Sat Dec/14]
+  FC Liverpool            2-0 FC Watford
+  FC Chelsea              0-1 AFC Bournemouth
+  Leicester City          1-1 Norwich City
+  Sheffield United        2-0 Aston Villa
+  FC Burnley              1-0 Newcastle United
+  FC Southampton          0-1 West Ham United
+[Sun Dec/15] 
+  FC Arsenal              0-3 Manchester City
+  Manchester United       1-1 FC Everton
+  Wolverhampton Wanderers 1-2 Tottenham Hotspur
+[Mon Dec/16]
+  Crystal Palace          1-1 Brighton & Hove Albion
+ 
+   
+Matchday 18
+[Sat Dec/21]
+  Aston Villa             1-3 FC Southampton
+  FC Everton              0-0 FC Arsenal
+  Newcastle United        1-0 Crystal Palace
+  West Ham United         0-2 FC Liverpool                 
+  Manchester City         3-1 Leicester City
+  Norwich City            1-2 Wolverhampton Wanderers
+  AFC Bournemouth         0-1 FC Burnley
+  Brighton & Hove Albion  0-1 Sheffield United
+[Sun Dec/22]
+  FC Watford              2-0 Manchester United
+  Tottenham Hotspur       0-2 FC Chelsea
+  
+  
+Matchday 19
+[Thu Dec/26]
+  Aston Villa             1-0 Norwich City
+  FC Chelsea              0-2 FC Southampton
+  Crystal Palace          2-1 West Ham United
+  FC Everton              1-0 FC Burnley
+  Leicester City          0-4 FC Liverpool
+  Manchester United       4-1 Newcastle United
+  Tottenham Hotspur       2-1 Brighton & Hove Albion
+  Sheffield United        1-1 FC Watford
+  AFC Bournemouth         1-1 FC Arsenal
+[Fri Dec/27]
+  Wolverhampton Wanderers 3-2 Manchester City
+  
+
+Matchday 20
+[Sat Dec/28]
+  Newcastle United        1-2 FC Everton
+  FC Southampton          1-1 Crystal Palace
+  West Ham United         1-2 Leicester City
+  FC Watford              3-0 Aston Villa
+  Norwich City            2-2 Tottenham Hotspur
+  FC Burnley              0-2 Manchester United
+  Brighton & Hove Albion  2-0 AFC Bournemouth
+[Sun Dec/29]
+  FC Arsenal              1-2 FC Chelsea
+  FC Liverpool            1-0 Wolverhampton Wanderers
+  Manchester City         2-0 Sheffield United
+  
+  
+Matchday 21
+[Wed Jan/1]
+  FC Arsenal              2-0 Manchester United
+  Newcastle United        0-3 Leicester City
+  FC Southampton          1-0 Tottenham Hotspur
+  West Ham United         4-0 AFC Bournemouth
+  Manchester City         2-1 FC Everton
+  FC Watford              2-1 Wolverhampton Wanderers
+  Norwich City            1-1 Crystal Palace
+  FC Burnley              1-2 Aston Villa
+  Brighton & Hove Albion  1-1 FC Chelsea
+[Thu Jan/2]
+  FC Liverpool            2-0 Sheffield United
+
+
+Matchday 22
+[Fri Jan/10]
+  Sheffield United        1-0 West Ham United
+[Sat Jan/11]
+  FC Chelsea              3-0 FC Burnley
+  Crystal Palace          1-1 FC Arsenal
+  FC Everton              1-0 Brighton & Hove Albion
+  Leicester City          1-2 FC Southampton
+  Manchester United       4-0 Norwich City
+  Tottenham Hotspur       0-1 FC Liverpool
+  Wolverhampton Wanderers 1-1 Newcastle United
+[Sun Jan/12]  
+  AFC Bournemouth         0-3 FC Watford
+  Aston Villa             1-6 Manchester City
+
+
+Matchday 23
+[Sat Jan/18]
+  FC Arsenal              1-1 Sheffield United
+  Brighton & Hove Albion  1-1 Aston Villa
+  Newcastle United        1-0 FC Chelsea
+  FC Southampton          2-3 Wolverhampton Wanderers
+  West Ham United         1-1 FC Everton
+  Manchester City         2-2 Crystal Palace
+  FC Watford              0-0 Tottenham Hotspur
+  Norwich City            1-0 AFC Bournemouth
+[Sun Jan/19]  
+  FC Burnley              2-1 Leicester City
+  FC Liverpool            2-0 Manchester United
+
+
+Matchday 24
+[Tue Jan/21]
+  Aston Villa             2-1 FC Watford
+  FC Everton              2-2 Newcastle United
+  FC Chelsea              2-2 FC Arsenal
+  Crystal Palace          0-2 FC Southampton
+  Sheffield United        0-1 Manchester City
+  AFC Bournemouth         3-1 Brighton & Hove Albion
+[Wed Jan/22]
+  Leicester City          4-1 West Ham United
+  Manchester United       0-2 FC Burnley
+  Tottenham Hotspur       2-1 Norwich City
+[Thu Jan/23]
+  Wolverhampton Wanderers 1-2 FC Liverpool
+  
+  
+## Matchday 18 
+[Wed Jan/29]
+ West Ham United          0-2 FC Liverpool
+
+
+Matchday 25
+[Sat Feb/1]
+  Crystal Palace          0-1 Sheffield United
+  Leicester City          2-2 FC Chelsea
+  FC Liverpool            4-0 FC Southampton
+  Manchester United       0-0 Wolverhampton Wanderers
+  Newcastle United        0-0 Norwich City
+  West Ham United         3-3 Brighton & Hove Albion
+  FC Watford              2-3 FC Everton
+  AFC Bournemouth         2-1 Aston Villa
+[Sun Feb/2]
+  FC Burnley              0-0 FC Arsenal
+  Tottenham Hotspur       2-0 Manchester City
+  
+  
+## winterbreak 
+  
+  
+Matchday 26
+[Sat Feb/8]
+  FC Everton              3-1 Crystal Palace
+  Brighton & Hove Albion  1-1 FC Watford
+[Sun Feb/9]
+  Sheffield United        2-1 AFC Bournemouth
+[Fri Feb/14]
+  Wolverhampton Wanderers 0-0 Leicester City
+[Sat Feb/15]
+  FC Southampton          1-2 FC Burnley
+  Norwich City            0-1 FC Liverpool
+[Sun Feb/16] 
+  FC Arsenal              4-0 Newcastle United
+  Aston Villa             2-3 Tottenham Hotspur
+[Mon Feb/17]
+  FC Chelsea              0-2 Manchester United
+[Wed Feb/19]
+  Manchester City         2-0 West Ham United
+
+
+Matchday 27
+[Sat Feb/22]
+  FC Chelsea              2-1 Tottenham Hotspur
+  Crystal Palace          1-0 Newcastle United
+  Leicester City          0-1 Manchester City
+  FC Southampton          2-0 Aston Villa
+  Sheffield United        1-1 Brighton & Hove Albion
+  FC Burnley              3-0 AFC Bournemouth
+[Sun Feb/23]
+  Wolverhampton Wanderers 3-0 Norwich City
+  Manchester United       3-0 FC Watford
+  FC Arsenal              3-2 FC Everton
+[Mon Feb/24]
+  FC Liverpool            3-2 West Ham United
+  
+  
+Matchday 28
+[Fri Feb/28]
+  Norwich City            1-0 Leicester City
+[Sat Feb/29]
+  Aston Villa             - Sheffield United                # Termin verschoben
+  Newcastle United        0-0 FC Burnley
+  West Ham United         3-1 FC Southampton
+  FC Watford              3-0 FC Liverpool
+  AFC Bournemouth         2-2 FC Chelsea
+  Brighton & Hove Albion  0-1 Crystal Palace
+[Sun Mar/1]
+  FC Everton              1-1 Manchester United
+  Manchester City         - FC Arsenal                      # Termin verschoben
+  Tottenham Hotspur       2-3 Wolverhampton Wanderers
+ 
+
+Matchday 29
+[Sat Mar/7]
+  FC Arsenal              - West Ham United
+  Crystal Palace          - FC Watford
+  FC Liverpool            - AFC Bournemouth
+  FC Southampton          - Newcastle United
+  Wolverhampton Wanderers - Brighton & Hove Albion
+  Sheffield United        - Norwich City
+  FC Burnley              - Tottenham Hotspur
+[Sun Mar/8]
+  FC Chelsea              - FC Everton
+  Manchester United       - Manchester City
+[Mon Mar/9]
+  Leicester City          - Aston Villa
+
+
+Matchday 30
+[Sat Mar/14]
+  Aston Villa             - FC Chelsea
+  Newcastle United        - Sheffield United
+  Manchester City         - FC Burnley
+  FC Watford              - Leicester City
+  Norwich City            - FC Southampton
+  AFC Bournemouth         - Crystal Palace
+  Brighton & Hove Albion  - FC Arsenal
+[Sun Mar/15]
+  Tottenham Hotspur       - Manchester United
+  West Ham United         - Wolverhampton Wanderers
+[Mon Mar/16]
+  FC Everton              - FC Liverpool
+
+
+Matchday 31
+[Fri Mar/20]
+  Tottenham Hotspur       - West Ham United
+[Sat Mar/21]
+  FC Chelsea              - Manchester City
+  FC Liverpool            - Crystal Palace
+  Manchester United       - Sheffield United
+  Newcastle United        - Aston Villa
+  Wolverhampton Wanderers - AFC Bournemouth
+  Norwich City            - FC Everton
+  FC Burnley              - FC Watford
+[Sun Mar/22]
+  Leicester City          - Brighton & Hove Albion
+  FC Southampton          - FC Arsenal
+
+
+Matchday 32
+[Sat Apr/4]
+  FC Arsenal              - Norwich City
+  Aston Villa             - Wolverhampton Wanderers
+  Crystal Palace          - FC Burnley
+  FC Everton              - Leicester City
+  West Ham United         - FC Chelsea
+  Manchester City         - FC Liverpool
+  FC Watford              - FC Southampton
+  Sheffield United        - Tottenham Hotspur
+  AFC Bournemouth         - Newcastle United
+  Brighton & Hove Albion  - Manchester United
+
+
+Matchday 33
+[Sat Apr/11]
+  FC Chelsea              - FC Watford
+  Leicester City          - Crystal Palace
+  FC Liverpool            - Aston Villa
+  Manchester United       - AFC Bournemouth
+  Newcastle United        - West Ham United
+  FC Southampton          - Manchester City
+  Tottenham Hotspur       - FC Everton
+  Wolverhampton Wanderers - FC Arsenal
+  Norwich City            - Brighton & Hove Albion
+  FC Burnley              - Sheffield United
+
+
+Matchday 34
+[Sat Apr/18]
+  FC Arsenal              - Leicester City
+  Aston Villa             - Manchester United
+  Crystal Palace          - FC Chelsea
+  FC Everton              - FC Southampton
+  West Ham United         - FC Burnley
+  Manchester City         - Newcastle United
+  FC Watford              - Norwich City
+  Sheffield United        - Wolverhampton Wanderers
+  AFC Bournemouth         - Tottenham Hotspur
+  Brighton & Hove Albion  - FC Liverpool
+
+
+Matchday 35
+[Sat Apr/25]
+  Aston Villa             - Crystal Palace
+  FC Liverpool            - FC Burnley
+  Manchester United       - FC Southampton
+  Tottenham Hotspur       - FC Arsenal
+  Wolverhampton Wanderers - FC Everton
+  FC Watford              - Newcastle United
+  Sheffield United        - FC Chelsea
+  Norwich City            - West Ham United
+  AFC Bournemouth         - Leicester City
+  Brighton & Hove Albion  - Manchester City
+
+
+Matchday 36
+[Sat May/2]
+  FC Arsenal              - FC Liverpool
+  FC Chelsea              - Norwich City
+  Crystal Palace          - Manchester United
+  FC Everton              - Aston Villa
+  Leicester City          - Sheffield United
+  Newcastle United        - Tottenham Hotspur
+  FC Southampton          - Brighton & Hove Albion
+  West Ham United         - FC Watford
+  Manchester City         - AFC Bournemouth
+  FC Burnley              - Wolverhampton Wanderers
+
+
+Matchday 37
+[Sat May/9]
+  Aston Villa             - FC Arsenal
+  FC Liverpool            - FC Chelsea
+  Manchester United       - West Ham United
+  Tottenham Hotspur       - Leicester City
+  Wolverhampton Wanderers - Crystal Palace
+  FC Watford              - Manchester City
+  Sheffield United        - FC Everton
+  Norwich City            - FC Burnley
+  AFC Bournemouth         - FC Southampton
+  Brighton & Hove Albion  - Newcastle United
+
+
+Matchday 38
+[Sun May/17]
+  FC Arsenal              - FC Watford
+  FC Chelsea              - Wolverhampton Wanderers
+  Crystal Palace          - Tottenham Hotspur
+  FC Everton              - AFC Bournemouth
+  Leicester City          - Manchester United
+  Newcastle United        - FC Liverpool
+  FC Southampton          - Sheffield United
+  West Ham United         - Aston Villa
+  Manchester City         - Norwich City
+  FC Burnley              - Brighton & Hove Albion
